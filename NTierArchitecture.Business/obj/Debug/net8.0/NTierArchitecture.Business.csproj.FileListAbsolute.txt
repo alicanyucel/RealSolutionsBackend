@@ -1,0 +1,16 @@
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.deps.json
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.dll
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Business.pdb
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Entities.dll
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\bin\Debug\net8.0\NTierArchitecture.Entities.pdb
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.sourcelink.json
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArc.1080D041.Up2Date
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.dll
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\refint\NTierArchitecture.Business.dll
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\NTierArchitecture.Business.pdb
+C:\Users\Ali Can\Source\Repos\NtierArchitectureNet8\NTierArchitecture.Business\obj\Debug\net8.0\ref\NTierArchitecture.Business.dll

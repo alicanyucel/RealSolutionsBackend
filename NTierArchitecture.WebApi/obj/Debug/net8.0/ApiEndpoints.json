@@ -1,0 +1,210 @@
+[
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Auth.Login.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Auth.Register.RegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.CategoriesController",
+    "Method": "Add",
+    "RelativePath": "api/Categories/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Categories.CreateCategory.CreateCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.CategoriesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Categories/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Categories.GetCategories.GetCategoriesQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.CategoriesController",
+    "Method": "RemoveById",
+    "RelativePath": "api/Categories/RemoveById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Categories.RemoveCategoryById.RemoveCategoryByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.CategoriesController",
+    "Method": "Update",
+    "RelativePath": "api/Categories/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Categories.UpdateCategory.UpdateCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.ProductsController",
+    "Method": "Add",
+    "RelativePath": "api/Products/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Products.CreateProduct.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.ProductsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Products/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Products.GetProducts.GetProductsQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.ProductsController",
+    "Method": "RemoveById",
+    "RelativePath": "api/Products/RemoveById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Products.RemoveProductById.RemoveProductByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.ProductsController",
+    "Method": "Update",
+    "RelativePath": "api/Products/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Products.UpdateProduct.UpdateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.RolesController",
+    "Method": "Create",
+    "RelativePath": "api/Roles/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Roles.CreateRole.CreateRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.RolesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Roles/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.Roles.GetRoles.GetRolesQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NTierArchitecture.WebApi.Controllers.UserRolesController",
+    "Method": "SetRole",
+    "RelativePath": "api/UserRoles/SetRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NTierArchitecture.Business.Features.UserRoles.SetUserRole.SetUserRoleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
