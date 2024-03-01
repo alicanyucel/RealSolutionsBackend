@@ -73,9 +73,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseMiddleware<ExceptionMiddleware>();
-
+//deneme commit 
 app.UseHttpsRedirection();
-
+app.UseCors();
 app.MapControllers();
 
 app.Run();
