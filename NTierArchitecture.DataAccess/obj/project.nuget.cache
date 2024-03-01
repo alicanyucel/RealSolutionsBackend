@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ne6ObTaspIvM6cC1kTRkOlFD8ZqmQPHcvlDN1spj9O5B6pGtV+VgSVhn6f/blKi12MoB3Y/qpp/Jgex50BhxuA==",
+  "dgSpecHash": "fWNWNRh7iG0RPYViJhjYcBzgD+o8zwSnRSKafmP1o7DMRB4ggfB7yOhlnpudCLY3SvXSL1LSqbCghR+Ft9Y66g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\NtierArchitectureNet8\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\RealSolutionsBackend\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

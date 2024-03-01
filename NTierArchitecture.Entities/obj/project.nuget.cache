@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IVGPR1ff9Hw2OMRBvHma36mGY4q/8oWnLyhpEW0X/qEjEG/eYiIrhd2goicUQ1blYSaWx9iplRxZSGQiETeqiw==",
+  "dgSpecHash": "tRTCXSC5IY3s/hHMi6MUM80B9oi7N13kmPfLUdByA60pC8C59pkSnb3MPjP9p+jjDibot0bBXrik8YiePqDIMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\NtierArchitectureNet8\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\RealSolutionsBackend\\NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

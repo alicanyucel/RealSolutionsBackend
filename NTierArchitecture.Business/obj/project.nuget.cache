@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isOcN0FahA9stoBEH4uL1GhAKUo4xP0MLSvZR9ZqTo4vMu/LOiM8odxDBM4vF6d9V3rzXs3D6cnErW6K4ePDhg==",
+  "dgSpecHash": "oa1DK+UgBwoYaYHL+sFzMUgVeBaF0qHiVVxG1VTKq0A/MVpEJdjUXTE92ahNS8PXBrZOrYenZiCOXuBHfdE9Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\NtierArchitectureNet8\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\RealSolutionsBackend\\NTierArchitecture.Business\\NTierArchitecture.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
