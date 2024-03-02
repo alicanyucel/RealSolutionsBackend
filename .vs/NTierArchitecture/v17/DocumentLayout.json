@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj|solutionrelative:ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.dataaccess\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|solutionrelative:ntierarchitecture.dataaccess\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\abstractions\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\abstractions\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,58 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302010243_denemesdsdsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierArchitecture.DataAccess\\Migrations\\20240302010243_denemesdsdsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.business\\features\\roles\\createrole\\createrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\features\\roles\\createrole\\createrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.business\\features\\roles\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\features\\roles\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.business\\features\\roles\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\features\\roles\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.business\\features\\userroles\\setuserrole\\setuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\features\\userroles\\setuserrole\\setuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302005044_denemesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierArchitecture.DataAccess\\Migrations\\20240302005044_denemesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.dataaccess\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|solutionrelative:ntierarchitecture.dataaccess\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.business\\features\\auth\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCC6EB7-3A64-4A28-819F-97998DFAFC96}|NTierArchitecture.Business\\NTierArchitecture.Business.csproj|solutionrelative:ntierarchitecture.business\\features\\auth\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.webapi\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj|solutionrelative:ntierarchitecture.webapi\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861DC3B8-00D7-4972-9D59-EE9B963B9586}|NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj|solutionrelative:ntierarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2F4A913-5BDE-44EB-BF60-E418E7324669}|NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,33 +106,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240302010243_denemesdsdsd.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302010243_denemesdsdsd.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Migrations\\20240302010243_denemesdsdsd.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302010243_denemesdsdsd.cs",
+              "RelativeToolTip": "NTierArchitecture.DataAccess\\Migrations\\20240302010243_denemesdsdsd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T01:02:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\Enums.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Abstractions\\Enums.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\Enums.cs*",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Abstractions\\Enums.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:53:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240302005044_denemesd.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302005044_denemesd.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Migrations\\20240302005044_denemesd.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302005044_denemesd.cs",
+              "RelativeToolTip": "NTierArchitecture.DataAccess\\Migrations\\20240302005044_denemesd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:50:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SetUserRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommand.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommand.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:46:20.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandValidator.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:44:59.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\AppRole.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Models\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:40:24.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRoleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandHandler.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:38:54.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommand.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommand.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Features\\Roles\\CreateRole\\CreateRoleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:30:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.Business\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Business\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "NTierArchitecture.Business\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:28:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.WebApi\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "NTierArchitecture.WebApi\\Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.WebApi\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "NTierArchitecture.WebApi\\Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:25:49.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "20240302000526_deneme.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs",
               "RelativeToolTip": "NTierArchitecture.DataAccess\\Migrations\\20240302000526_deneme.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T00:05:26.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "JwtProvider.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Services\\JwtProvider.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Services\\JwtProvider.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Services\\JwtProvider.cs",
               "RelativeToolTip": "NTierArchitecture.DataAccess\\Services\\JwtProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T00:01:43.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "IJwtProvider.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\IJwtProvider.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Abstractions\\IJwtProvider.cs",
@@ -105,33 +275,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\UserRole.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\UserRole.cs",
               "RelativeToolTip": "NTierArchitecture.Entities\\Models\\UserRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T23:54:09.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\AppUser.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\AppUser.cs",
               "RelativeToolTip": "NTierArchitecture.Entities\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T23:54:06.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.DataAccess\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\Repositories\\Repository.cs",
@@ -144,20 +314,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.WebApi\\Program.cs",
               "RelativeToolTip": "NTierArchitecture.WebApi\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAApwFAAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAApwE4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T23:22:19.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "NTierArchitecture.WebApi\\appsettings.json",
@@ -170,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "NTierArchitecture.DataAccess",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\RealSolutionsBackend\\NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
               "RelativeDocumentMoniker": "NTierArchitecture.DataAccess\\NTierArchitecture.DataAccess.csproj",
@@ -183,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\Entity.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Abstractions\\Entity.cs",

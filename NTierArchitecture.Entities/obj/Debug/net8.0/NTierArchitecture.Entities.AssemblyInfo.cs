@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NTierArchitecture.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5da6ebe8178d24ccc3bf14a3e2a9ed6290431731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ad53100ba43e3f624949fa89a0fa7b14382382c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NTierArchitecture.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NTierArchitecture.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
