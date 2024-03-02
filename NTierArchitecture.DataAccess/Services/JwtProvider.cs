@@ -33,7 +33,7 @@ internal sealed class JwtProvider : IJwtProvider
             audience: _jwt.Audience,
             claims: claims,
             notBefore: DateTime.Now,
-            expires: DateTime.Now.AddSeconds(10),
+            expires: DateTime.Now.AddDays(1),
             signingCredentials: new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwt.SecretKey)), SecurityAlgorithms.HmacSha512));
 
         JwtSecurityTokenHandler handler = new();
