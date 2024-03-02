@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\abstractions\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\abstractions\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|solutionrelative:ntierarchitecture.entities\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C4F75A2-C58A-4520-AD58-E22CA5BB91AE}|NTierArchitecture.Entities\\NTierArchitecture.Entities.csproj|c:\\users\\ali can\\source\\repos\\realsolutionsbackend\\ntierarchitecture.entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -119,13 +119,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\Enums.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Abstractions\\Enums.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\Enums.cs*",
-              "RelativeToolTip": "NTierArchitecture.Entities\\Abstractions\\Enums.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Abstractions\\Enums.cs",
+              "RelativeToolTip": "NTierArchitecture.Entities\\Abstractions\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T00:53:55.868Z",
               "EditorCaption": ""
@@ -171,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppRole.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\RealSolutionsBackEnd\\NTierArchitecture.Entities\\Models\\AppRole.cs",
               "RelativeDocumentMoniker": "NTierArchitecture.Entities\\Models\\AppRole.cs",
