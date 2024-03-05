@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xkR5uekD/j/VGgDlweKrm+wgDW5lwUR5eW1xFwgiPNkqBFxG0ytFY+apF68WC9eeCd4hsqn7/92D78l+9cbdQ==",
+  "dgSpecHash": "fYX9TlZpFAwx+wmMnMnbsg46a0Fxjh/ftSwwMiSRNHkczdnZSvN8P4vcIkHa9b2gkdtSl/8WYckQq6Ug8ViNQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\RealSolutionsBackend\\NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\RealSolutionsBackendA\\NTierArchitecture.WebApi\\NTierArchitecture.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
