@@ -12,7 +12,7 @@ namespace NTierArchitecture.Entities.Models
     {
         public string Name { get; set; }
         Abstractions.Color Color { get; set; }
-       
+       public Repo Repositories { get; set; }
        
     }
 }

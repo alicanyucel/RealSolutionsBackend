@@ -8,4 +8,5 @@ using System.Threading.Tasks;
 namespace NTierArchitecture.Entities.Models;
 public sealed class AppRole : IdentityRole<Guid>
 {
+    public AppUser AppUser { get; set; }
 }

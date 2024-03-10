@@ -10,7 +10,7 @@ namespace NTierArchitecture.Entities.Models
 {
     public class Repo:Entity
     {
-       
+       public List<Product> Products{ get; set; }
         public int Quantity { get; set; }
         public bool isSalesReady { get; set; }
     }
