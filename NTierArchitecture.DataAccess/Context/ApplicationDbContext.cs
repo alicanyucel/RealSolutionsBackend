@@ -10,6 +10,10 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, AppRole,
     public ApplicationDbContext(DbContextOptions options) : base(options)
     {
     }
+    public DbSet<Order> Orders { get; set; }
+    public DbSet<Product> Products { get; set; }
+    public DbSet<Repo > Repositories { get; set; }
+    public DbSet<Customer> Customers { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {

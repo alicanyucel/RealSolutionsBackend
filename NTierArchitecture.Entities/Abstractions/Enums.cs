@@ -10,4 +10,8 @@ namespace NTierArchitecture.Entities.Abstractions
     {
         S=1, M=2, L=3, Xl=4
     }
+    public enum Color
+    {
+        Red=0,green=1,blue=2
+    }
 }

@@ -1,6 +1,12 @@
-﻿namespace NTierArchitecture.Entities.Abstractions;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+namespace NTierArchitecture.Entities.Abstractions;
 public abstract class Entity 
 {
+
     public int Id { get; set; }
     public int CreatedUserId { get; set; }
     public DateTime CreatedDate { get; set; }
