@@ -11,7 +11,7 @@ namespace NTierArchitecture.Entities.Models
     public sealed class Order:Entity
     {
 
-       public string PublicId { get; set; }
+       
        public Customer Customer { get; set; }
     public Product Product { get; set; }
         public int Quantity { get; set; }
