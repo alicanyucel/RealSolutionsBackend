@@ -12,8 +12,8 @@ using NTierArchitecture.DataAccess.Context;
 namespace NTierArchitecture.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240310093801_inittdddcLdfcxmkkmiij")]
-    partial class inittdddcLdfcxmkkmiij
+    [Migration("20240310102538_fe")]
+    partial class fe
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -171,7 +171,7 @@ namespace NTierArchitecture.DataAccess.Migrations
                     b.Property<int>("CreatedUserId")
                         .HasColumnType("int");
 
-                    b.Property<int>("CustomerId")
+                    b.Property<int>("CustomersId")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("LastUpdatedDate")
@@ -182,10 +182,6 @@ namespace NTierArchitecture.DataAccess.Migrations
 
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
-
-                    b.Property<string>("PublicId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
@@ -198,7 +194,7 @@ namespace NTierArchitecture.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CustomerId");
+                    b.HasIndex("CustomersId");
 
                     b.HasIndex("ProductId");
 
@@ -229,6 +225,9 @@ namespace NTierArchitecture.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("RepositoriesId")
+                        .HasColumnType("int");
+
                     b.Property<bool>("Status")
                         .HasColumnType("bit");
 
@@ -236,6 +235,8 @@ namespace NTierArchitecture.DataAccess.Migrations
                         .HasColumnType("bit");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("RepositoriesId");
 
                     b.ToTable("Products");
                 });
@@ -279,9 +280,9 @@ namespace NTierArchitecture.DataAccess.Migrations
 
             modelBuilder.Entity("NTierArchitecture.Entities.Models.Order", b =>
                 {
-                    b.HasOne("NTierArchitecture.Entities.Models.Customer", "Customer")
+                    b.HasOne("NTierArchitecture.Entities.Models.Customer", "Customers")
                         .WithMany("Orders")
-                        .HasForeignKey("CustomerId")
+                        .HasForeignKey("CustomersId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -291,14 +292,30 @@ namespace NTierArchitecture.DataAccess.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Customer");
+                    b.Navigation("Customers");
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("NTierArchitecture.Entities.Models.Product", b =>
+                {
+                    b.HasOne("NTierArchitecture.Entities.Models.Repo", "Repositories")
+                        .WithMany("Products")
+                        .HasForeignKey("RepositoriesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Repositories");
                 });
 
             modelBuilder.Entity("NTierArchitecture.Entities.Models.Customer", b =>
                 {
                     b.Navigation("Orders");
+                });
+
+            modelBuilder.Entity("NTierArchitecture.Entities.Models.Repo", b =>
+                {
+                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }

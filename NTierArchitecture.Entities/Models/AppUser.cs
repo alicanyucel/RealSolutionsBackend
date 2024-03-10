@@ -5,5 +5,5 @@ public sealed class AppUser : IdentityUser<Guid>
 {
     public string Name { get; set; }
     public string Lastname { get; set; }
-    public List<AppRole> Roles { get; set; }
+  
 }

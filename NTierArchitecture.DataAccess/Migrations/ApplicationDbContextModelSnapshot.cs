@@ -28,9 +28,6 @@ namespace NTierArchitecture.DataAccess.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("AppUserId")
-                        .HasColumnType("uniqueidentifier");
-
                     b.Property<string>("ConcurrencyStamp")
                         .HasColumnType("nvarchar(max)");
 
@@ -41,8 +38,6 @@ namespace NTierArchitecture.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("AppUserId");
 
                     b.ToTable("Roles");
                 });
@@ -280,17 +275,6 @@ namespace NTierArchitecture.DataAccess.Migrations
                     b.ToTable("Repositories");
                 });
 
-            modelBuilder.Entity("NTierArchitecture.Entities.Models.AppRole", b =>
-                {
-                    b.HasOne("NTierArchitecture.Entities.Models.AppUser", "AppUser")
-                        .WithMany("Roles")
-                        .HasForeignKey("AppUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("AppUser");
-                });
-
             modelBuilder.Entity("NTierArchitecture.Entities.Models.Order", b =>
                 {
                     b.HasOne("NTierArchitecture.Entities.Models.Customer", "Customers")
@@ -319,11 +303,6 @@ namespace NTierArchitecture.DataAccess.Migrations
                         .IsRequired();
 
                     b.Navigation("Repositories");
-                });
-
-            modelBuilder.Entity("NTierArchitecture.Entities.Models.AppUser", b =>
-                {
-                    b.Navigation("Roles");
                 });
 
             modelBuilder.Entity("NTierArchitecture.Entities.Models.Customer", b =>
